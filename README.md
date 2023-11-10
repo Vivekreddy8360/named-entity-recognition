@@ -10,12 +10,6 @@ The aim of this experiment is to develop an LSTM-based neural network model usin
 
 ![deep exp5 1](https://github.com/Vivekreddy8360/named-entity-recognition/assets/94525701/fcc814da-9bd3-40f8-b6a4-417d45e2d57f)
 
-
-
-## Neural Network Model
-
-![deep exp5](https://github.com/Vivekreddy8360/named-entity-recognition/assets/94525701/4bc0e85b-af21-4864-9c02-430d58e67ac2)
-
 ## DESIGN STEPS
 
 ### STEP 1:
